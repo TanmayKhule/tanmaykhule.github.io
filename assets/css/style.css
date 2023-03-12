@@ -31,6 +31,10 @@ h5,
 h6 {
   font-family: "Raleway", sans-serif;
 }
+
+.about-section{
+  text-align: justify;
+}
 .services i {
   font-size: 40px;
 }
@@ -472,6 +476,7 @@ section {
 /*--------------------------------------------------------------
 # Akills
 --------------------------------------------------------------*/
+
 .skills .progress {
   height: 60px;
   display: block;
